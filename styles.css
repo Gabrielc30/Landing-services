@@ -92,6 +92,7 @@ section {
     transition: opacity 0.6s ease, transform 0.6s ease;
     width: 100%;
     overflow-x: hidden;
+   margin: auto;
 }
 
 section.visible {
@@ -570,3 +571,4 @@ a:focus-visible {
 html {
     scroll-behavior: smooth;
 }
+
